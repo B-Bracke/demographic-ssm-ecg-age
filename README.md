@@ -244,12 +244,15 @@ python inference.py /path/to/traces.hdf5 /path/to/metadata.csv \
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{bracke2026demographic,
-    title     = {Demographic-Conditioned State Space Models for ECG-Based Age Estimation},
-    author    = {Bracke, Benjamin and Stang, Andreas and Schmidt, B{\"o}rge and Friedrich, Christoph M.},
-    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-    year      = {2026},
-    publisher = {Springer}
+@InProceedings{BraBen_DemographicConditioned_MICCAI2026,
+        author = { Bracke, Benjamin AND Stang, Andreas AND Schmidt, Börge AND Friedrich, Christoph M.},
+        title = { { Demographic-Conditioned State Space Models for ECG-Based Age Estimation } },
+        booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+        year = {2026},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 16896},
+        month = {September},
+        page = {pending}
 }
 ```
 
