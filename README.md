@@ -252,7 +252,8 @@ If you use this code in your research, please cite:
         publisher = {Springer Nature Switzerland},
         volume = {LNCS 16896},
         month = {September},
-        page = {pending}
+        page = {376--385},
+        doi = {10.1007/978-3-032-38260-3_36}
 }
 ```
 
